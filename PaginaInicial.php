@@ -1,1 +1,3 @@
-asdasdasda
+<?php
+    echo"hellow word";
+    ?>
